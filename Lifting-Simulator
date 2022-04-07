@@ -1,5 +1,5 @@
 
-local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/twink"))()
+local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/NONEXz/Lifting-Simulator/main/Lifting-Simulator"))()
 
 local MainUI = UILibrary.Load("NONEXz - Lifting Simulator")
 local FirstPage = MainUI.AddPage("Home")
